@@ -1,0 +1,2 @@
+D:\Projects\C# Unity\pacmanwip\DoppelgangerEffect\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Projects\C# Unity\pacmanwip\DoppelgangerEffect\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
